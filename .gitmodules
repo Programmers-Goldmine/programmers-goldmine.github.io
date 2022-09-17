@@ -1,3 +1,6 @@
 [submodule "content/posts/Notes"]
 	path = content/posts/Notes
 	url = git@github.com:Programmers-Goldmine/Notes.git
+[submodule "Web-Theme"]
+	path = themes/Web-Theme
+	url = git@github.com:Programmers-Goldmine/Web-Theme.git
